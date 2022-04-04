@@ -1,0 +1,109 @@
+@import url(https://fonts.googleapis.com/css2?family=Lobster&display=swap);
+body{
+    font-family:lobster,cursive;
+    text-align: center;
+    background-image: url("https://media.istockphoto.com/photos/neon-background-abstract-blue-and-pink-with-light-shapes-line-picture-id1191658515?k=20&m=1191658515&s=612x612&w=0&h=GyYyYJB8QTutGPhOtWdz0k8adWc1q4F55oEdM37duNA=");
+    background-size: 100%;
+    background-position-x: center;
+}
+header{
+    background-color: black;
+    margin-top: -23px;
+    height: 200px;
+}
+.navbar-h1{
+    color: blueviolet;
+    margin-right: 980px;
+    padding-top: 30px;
+}
+a:hover{
+    color: red;
+}
+a{
+    font-size: x-large;
+    text-decoration: none;
+    color: blueviolet;
+    margin: 100px;
+}
+nav{
+    text-align: center;
+}
+.Solar-System-img{
+    width: 400px;
+}
+div{
+    margin: auto;
+    width: 500px;
+    border: black solid 2px;
+    color: black;
+}
+.did-you-know-div{
+    text-align: center;
+    margin-right: 50px;
+    width: 300px;
+    background-image: url("https://cdn.discordapp.com/attachments/956153293959233539/960497173903065128/unknown.png");
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-color: black;
+    height: 300px;
+    color: blueviolet;
+}
+.did-you-know-div-2{
+    text-align: center;
+    margin-right: 1200px;
+    width: 300px;
+    background-image: url("https://cdn.discordapp.com/attachments/956153293959233539/960497173903065128/unknown.png");
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-color: black;
+    height: 300px;
+    color: blueviolet;
+}
+.facts{
+    text-align: left;
+}
+.Universe-img{
+    width: 300px;
+}
+.facebook-icon{
+    width: 50px;
+}
+.twitter-icon{
+    width: 50px;
+}
+.discord-icon{
+    width: 50px;
+}
+.youtube-icon{
+    width: 50px;
+}
+footer{
+    background-color: black;
+    display: flex;
+    height: 250px;
+    width: 300px;
+    align-items: center;
+    flex-direction:row;
+    color: white;
+    margin: auto;
+}
+
+.adjust{
+    flex-direction: row;
+    display: flex;
+}
+.outer-layer{
+    background-color: black;
+    display: flex;
+    height: 250px;
+    width: 100%;
+    align-items: center;
+    flex-direction:row;
+    color: white;
+    margin: auto;
+}
+.white{
+    color: black;
+}
